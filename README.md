@@ -2,6 +2,6 @@
 Sample my firts GoJs Diagram
 
 
-##Start to GoJs
+### Start to GoJs
 https://gojs.net/latest/learn/index.html
 
